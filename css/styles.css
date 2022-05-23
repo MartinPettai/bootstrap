@@ -1,0 +1,23 @@
+body {
+    display: block;
+    overflow-x: hidden;
+}
+
+nav {
+    background-color: white;
+}
+
+
+.navbar-brand img {
+    max-height: 50px;
+}
+
+.navbar-brand {
+    font-size: 24px;
+    text-transform: 900;
+    color: yellow
+}
+
+nav ul li a:hover {
+    color:yellow
+}
